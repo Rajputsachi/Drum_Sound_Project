@@ -1,0 +1,33 @@
+body{
+  background-color: blue;
+}
+h1{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: red;
+  text-align: center;
+
+}
+.set{
+  margin-top: 150px;
+}
+#w{
+  background-image: url("file:///C:/Users/Sachin/Pictures/IMG_20191027_170321.jpg");
+
+}
+button{
+  border: 10px solid #404B69;
+   width:150px;
+   height:150px;
+   font-size: 50px;
+   font-family: 'Lobster', cursive;
+   text-shadow: 5px 0 #232931;
+   color: yellow;
+   margin-left:20px;
+   background-color: pink;
+   overflow: hidden;
+
+
+}
